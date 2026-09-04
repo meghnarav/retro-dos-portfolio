@@ -2,6 +2,9 @@
 
 A lightweight, DOS/CRT-inspired terminal portfolio built with vanilla HTML, CSS, and JavaScript.
 
+## Link
+[meghnarav.github.io/retro-dos-portfolio/](meghnarav.github.io/retro-dos-portfolio/)
+
 ## Overview
 
 * **Zero Build Pipeline:** Pure HTML5/CSS3/ES6 JavaScript. Works directly with just GitHub Pages.
