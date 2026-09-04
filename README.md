@@ -3,7 +3,7 @@
 A lightweight, DOS/CRT-inspired terminal portfolio built with vanilla HTML, CSS, and JavaScript.
 
 ## Link
-[meghnarav.github.io/retro-dos-portfolio/](meghnarav.github.io/retro-dos-portfolio/)
+[https://meghnarav.github.io/retro-dos-portfolio/](https://meghnarav.github.io/retro-dos-portfolio/)
 
 ## Overview
 
